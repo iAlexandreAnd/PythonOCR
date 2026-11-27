@@ -39,10 +39,10 @@ works.
 
 ### 2. Visualize detected text regions
 
-- [ ] Draw EasyOCR bounding boxes over the uploaded image.
-- [ ] Label regions with their recognized text and confidence.
-- [ ] Show the original and annotated image together.
-- [ ] Provide a readable per-region result list; consider region selection and
+- [x] Draw EasyOCR bounding boxes over the uploaded image.
+- [x] Label regions with their recognized text and confidence.
+- [x] Show the original and annotated image together.
+- [x] Provide a readable per-region result list; consider region selection and
   text correction as a follow-up if the basic view is useful.
 
 **Done when:** A user can match every displayed OCR result to its location in
